@@ -9,11 +9,10 @@ mac useful tools:
 what I use.
 1. insomniaX = lighthead = amphetamine - disable idle/lid sleep config
 2. insomnia = postman = curl - send http requests
-3. siege npm = siege brew install = artillery - npm modules to stress test
-4. bettertouchtools = spectale - hotkeys for your mac and window snapping
-5. trello - ticketing website (there's an extension on chrome to create parent/child relationships
+3. bettertouchtools = spectale - hotkeys for your mac and window snapping
    easily)
-6. docker - setting up containers/vm for your app
+4. macdown = dillinger.io - markdown editor (good for editing README's or keeping track of notes. I
+   also recommended using octopress and creating a blog for that)
 
 text editors: vim/vscode/atom/sublime text
 
